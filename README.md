@@ -27,7 +27,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 
 1. V tomto úkolu nebudeš potřebovat `@media query`. Hlavnímu obsahu nastav maximální šířku pomocí `max-width: 80vmin`. Stránka se tak bude lépe přízpůsobovat širokoúhlým obrzovkám i telefonům na výšku.
 
-1. Pro tlačítka v pravém horním rohu použij html prvek `<a>`. První tlačítko nasměru na úvodní stránku a druhé na `hra.html`. Nezapomeň na stejné zatmavení po najetí myši jako u předchozích stránek.
+1. Pro tlačítka v pravém horním rohu použij html prvek `<a>`. První tlačítko nasměru na úvodní stránku a druhé na `hra.html`, aby znovu načetlo právě zobrazenou stránku. Nezapomeň na stejné zatmavení po najetí myši jako u předchozích stránek.
 
    ![odkazy](zadani/odkazy.gif)
 
