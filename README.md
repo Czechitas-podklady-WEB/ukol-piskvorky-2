@@ -8,7 +8,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 
 1. Přidej poslední, třetí html soubor `hra.html` a odkaž na něj z tlačítek `Začít hrát` z předchozích stránek.
 
-1. Podle potřeby si stáhni všechny obrázkové podklady.
+1. Podle potřeby si stáhni všechny obrázkové podklady. Ber na vědomí, že tyto ikonky jsou tentokrát vybarvené bílou barvou, takže na svělém pozadí je neuvidíš.
 
    - Domů: [home.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-3/raw/main/podklady/home.svg)
    - Znovu: [restart.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-3/raw/main/podklady/restart.svg)
