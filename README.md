@@ -10,8 +10,8 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 
 1. Podle potřeby si stáhni všechny obrázkové podklady. Ber na vědomí, že tyto ikonky jsou vybarvené bílou barvou, takže na svělém pozadí je neuvidíš.
 
-   - Domů: [home.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-3/raw/main/podklady/home.svg)
-   - Znovu: [restart.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-3/raw/main/podklady/restart.svg)
+   - Domů: [home.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-2/raw/main/podklady/home.svg)
+   - Znovu: [restart.svg](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-2/raw/main/podklady/restart.svg)
 
 1. Uprav html a css podle obrázků níže.
 
