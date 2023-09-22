@@ -1,6 +1,6 @@
 # Úkol: Piškvorky 2/5
 
-Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB/Ukol-Piskvorky-1). Čeká tě kódování stránky s herní mřížkou.
+Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB/ukol-piskvorky-1). Čeká tě kódování stránky s herní mřížkou.
 
 ## Zadání
 
