@@ -37,7 +37,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
 
 ### Poznámky:
 
-- V pozdějších úkolech budeš měnit ikonku právě hrajícího hráče pomocí javascriptu. Zatím použij staticky, jen s použitím html a css, kroužek.
+- V pozdějších úkolech budeš měnit ikonku právě hrajícího hráče pomocí javascriptu. Zatím zobraz staticky, jen s použitím html a css, kroužek.
 
   ![právě hraje](zadani/prave-hraje.png)
 
