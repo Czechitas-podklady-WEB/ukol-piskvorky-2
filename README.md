@@ -38,6 +38,7 @@ Tento úkol navazuje na [Piškvorky 1](https://github.com/Czechitas-podklady-WEB
    ![hover](zadani/hover.gif)
 
 ### Poznámky:
+- Později se naučíme, jak 100 políček vyrobit skriptem, ne ručně. Prozatím se bude hodit alespoň to, že ve VS Code je možné zkopírovat řádek, na kterém je kurzor, pomocí <kbd>Alt+Shift+↓</kbd> (na Windows a Linuxu) resp. <kbd>Option+Shift+↓</kbd> (na Macu). Obdobně to funguje i se šipkou nahoru.
 
 - V pozdějších úkolech budeš měnit ikonku právě hrajícího hráče pomocí javascriptu. Zatím zobraz staticky, jen s použitím html a css, kroužek.
 
